@@ -6,7 +6,7 @@ Thank you very much for checking on this small university project !
 To run it: 
 1)Simply download all the files and put then in a single folder on your desktop or where most convenient for you.
 
-2)The dataset was two large to upload here, even if compressed. It was obtained from Kaggle. Download it from there and rename it to "data".
+2)The dataset was too large to upload here, even if compressed. It was obtained from Kaggle. Download it from there and rename it to "data".
 Here is the link for the dataset - https://www.kaggle.com/datasets/adhamelkomy/news-classification-and-analysis-using-nlp
 
 3)I used Spyder to write the code - on Anaconda 
