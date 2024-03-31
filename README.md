@@ -1,7 +1,7 @@
 # NLP-News
 An in-school project where I analysed a dataset from a popular news network with NLP.
 
-Thank you very much for checking on this smaller university project !
+Thank you very much for checking on this small university project !
 
 To run it: 
 1)Simply download all the files and put then in a single folder on your desktop or where most convenient for you.
