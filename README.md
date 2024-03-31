@@ -9,11 +9,13 @@ To run it:
 2)The dataset was too large to upload here, even if compressed. It was obtained from Kaggle. Download it from there and rename it to "data".
 Here is the link for the dataset - https://www.kaggle.com/datasets/adhamelkomy/news-classification-and-analysis-using-nlp
 
-3)I used Spyder to write the code - on Anaconda 
+3)Make sure to have these installed: Pandas, Time, Streamlit, Plotly.express, from PIL import Image, Spacy, eng_spacysentiment, from bertopic import BERTopic, en_core_web_md, en.Defaults.stop_words 
 
-4)It is a streamlit app project - to launch, use "streamlit run Intro.py".
+4)I used Spyder to write the code - on Anaconda 
 
-5)It might take some time to load "NLP Analysis" and "NLP Visuals" pages - depends on the computational capabilities, or simply - how powerful your device is. Just wait, give it some time :)
+5)It is a streamlit app project - to launch, use "streamlit run Intro.py".
+
+6)It might take some time to load "NLP Analysis" and "NLP Visuals" pages - depends on the computational capabilities, or simply - how powerful your device is. Just wait, give it some time :)
 
 
 
