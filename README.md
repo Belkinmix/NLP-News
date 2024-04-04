@@ -4,6 +4,7 @@ An in-school project where I analysed a dataset from a popular news network with
 Thank you very much for checking on this small university project !
 
 To run it: 
+
 1)Simply download all the files and put then in a single folder on your desktop or where most convenient for you.
 
 2)The dataset was too large to upload here, even if compressed. It was obtained from Kaggle. Download it from there and rename it to "data".
